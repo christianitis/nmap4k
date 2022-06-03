@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="LGPL" pattern="*.kt||src[nmap4k.main]:*..*" />
+</component>
